@@ -14,6 +14,7 @@ function App() {
   );
 }
 
+
 export default App;
 
 function Free(){
@@ -34,6 +35,7 @@ function Free(){
     </div>
   )
 }
+
 function Plus(){
   return(
     <div className='price-card'>
@@ -52,6 +54,7 @@ function Plus(){
     </div>
   )
 }
+
 function Pro(){
   return(
     <div className='price-card'>
